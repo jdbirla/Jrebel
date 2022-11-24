@@ -1,5 +1,11 @@
 - Src: https://www.jrebel.com/blog
 
+## Regular - expression
+![image](https://user-images.githubusercontent.com/69948118/203770570-2c277639-9af9-4e80-8f13-5b653ab7b069.png)
+
+## JVM Options
+![image](https://user-images.githubusercontent.com/69948118/203770694-a5063c03-6961-4d41-97c7-44aa1e47b79d.png)
+
 ## Java Collections
 ![image](https://user-images.githubusercontent.com/69948118/179200960-b75c98bc-f622-46c3-803a-38adcbaf7e3f.png)
 
@@ -17,6 +23,9 @@
 
 ## Spring Annotations
 ![image](https://user-images.githubusercontent.com/69948118/179201603-7a2ac7ad-07ef-4410-bf9b-58c72304ee9e.png)
+
+## rxjava
+![image](https://user-images.githubusercontent.com/69948118/203770467-31c016d3-f8b2-4197-9105-4cb687a884fd.png)
 
 ## Junit
 ![image](https://user-images.githubusercontent.com/69948118/179201672-b23f5940-72a9-404d-bc13-7a0c6233ebef.png)
